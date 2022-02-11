@@ -1,10 +1,9 @@
 # Bank App UI Design - Task 4 
 ( ANDROID CLUB )
 
+- This is a simple Bank App UI Design. 
+- Modal, ActivityIndicator and ScrollView are used
 - Design Inspiration from https://dribbble.com/shots/14997859-Mobile-Banking-App
-
-- This is a simple Bank App UI. 
-- In this program: Modal, ActivityIndicator and ScrollView are used 
 
 <h2> Design </h2>
 
