@@ -1,4 +1,4 @@
-# Bank UI Design - Task 4 
+# Bank App UI Design - Task 4 
 ( ANDROID CLUB )
 
 - Design Inspiration from https://dribbble.com/shots/14997859-Mobile-Banking-App
