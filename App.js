@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet,View,Text,ScrollView,Modal} from 'react-native';
-import ActInd from './Components/ActInd';
+import ActInd from './ActInd';
 
 
 export default function App() {
